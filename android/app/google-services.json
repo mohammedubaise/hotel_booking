@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874185747731",
+    "project_id": "bolu-c9050",
+    "storage_bucket": "bolu-c9050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874185747731:android:a77dd5365b51474bf4bee6",
+        "android_client_info": {
+          "package_name": "com.example.hotel_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiAGc256Oun-bcANyIGkoqYLRiCWiaiLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
